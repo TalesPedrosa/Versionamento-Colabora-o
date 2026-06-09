@@ -1,0 +1,4 @@
+O Git é uma ferramenta usada para acompanhar as mudanças feitas em um projeto ao longo do tempo. Ele funciona no próprio computador e ajuda o desenvolvedor a organizar o que foi alterado, além de permitir voltar atrás caso algo não saia como esperado. Também facilita o trabalho em partes diferentes de um mesmo projeto sem bagunçar o que já está pronto.
+
+Já o GitHub é uma plataforma online onde esses projetos podem ser enviados e compartilhados com outras pessoas. Ele torna mais fácil trabalhar em equipe, já que várias pessoas conseguem colaborar no mesmo código, comentar mudanças e acompanhar o desenvolvimento do projeto. No dia a dia, o Git é mais usado para o trabalho individual enquanto se programa, e o GitHub entra depois para guardar o projeto na internet e permitir essa colaboração com outras pessoas de forma mais prática e organizada.
+
